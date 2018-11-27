@@ -1,0 +1,12 @@
+This is a fork of LXDE's LXRandR project, which seems abandoned since
+2016.
+
+The main focus of this is to fix some minor, yet annoying bugs. Here    
+we have fixed:
+    * Unable to disable unplugged monitors
+    * Fallback message not showing up
+
+Please be aware that these two problems was not fixed in a beautiful
+way, and therefore some variant of these bugs may occour somewhere.
+
+Notes for compilation: it requires intltool and GTK+ to compile.
